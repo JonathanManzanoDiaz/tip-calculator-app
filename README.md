@@ -1,6 +1,7 @@
 # tip-calculator-app
 
-![image](https://github.com/JonathanManzanoDiaz/tip-calculator-app/assets/43423216/8f27e9f7-1217-456d-983e-89da0db24340)
+![image](https://github.com/JonathanManzanoDiaz/tip-calculator-app/assets/43423216/9bdf34e1-645b-460c-a969-6b0f5d058f2b)
+
 
 [LINK CHALLENGE](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX)
 <br>
